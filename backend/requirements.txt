@@ -1,0 +1,11 @@
+langchain 
+langchain-community 
+langchain-google-genai 
+langchain-mcp-adapters
+langgraph
+mcp
+fastmcp
+fastapi
+uvicorn
+python-dotenv
+tenacity

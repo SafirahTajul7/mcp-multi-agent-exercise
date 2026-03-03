@@ -1,0 +1,14 @@
+# Virtual environment
+myenv/
+__pycache__/
+
+# Environment variables (contains API keys!)
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
